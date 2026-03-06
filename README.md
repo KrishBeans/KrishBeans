@@ -10,8 +10,7 @@
 
 ###
 
-
-<img align="right" height="98" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBpNnZ3dHlhaDE5aDV4Y2p5cHZybHBwNG5wcGlkamlpZHRweGVjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBpNnZ3dHlhaDE5aDV4Y2p5cHZybHBwNG5wcGlkamlpZHRweGVjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 
 ###
 
@@ -56,7 +55,6 @@
 </div>
 
 ###
-
 
 <h4 align="left">Contact Me 📫</h4>
 
